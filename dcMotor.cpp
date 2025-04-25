@@ -68,3 +68,7 @@ uint16_t dcMotor::getDuty() {
         return analogRead(dutyPin);  // Read the PWM duty cycle using analogRead
     #endif
 }
+
+bool dcMotor::calibrate(){
+return true
+}
