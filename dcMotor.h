@@ -14,6 +14,7 @@ private:
     uint8_t channel;  // LEDC channel for PWM on ESP32
     uint16_t min;  // Minimum duty cycle value
     uint16_t max;  // Maximum duty cycle value
+    void calibrate();  // used to calibrate with accelerometer, gps and/or other sensors
 
 public:
     // Public methods
