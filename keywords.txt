@@ -1,0 +1,8 @@
+# dcMotor keys
+
+dcMotor KEYWORD1
+begin KEYWORD2
+stop KEYWORD2
+cw KEYWORD2
+ccw KEYWORD2
+setDuty KEYWORD2
