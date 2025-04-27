@@ -16,7 +16,7 @@ Things to do:
 * write tutorials
 * refine language so easy for anyone
 * take constructive criticism and use it to refine and upgrade access
-* More integrations, such as Micropyhton such as ROS, https://www.roboticslibrary.org/, and platformIO
+* More integrations, such as Micropython,ROS, https://www.roboticslibrary.org/, and platformIO
 
 * @Dedication:  Shinigami
 
