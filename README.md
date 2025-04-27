@@ -16,6 +16,7 @@ Things to do:
 * write tutorials
 * refine language so easy for anyone
 * take constructive criticism and use it to refine and upgrade access
+* More integrations, such as Micropyhton such as ROS, https://www.roboticslibrary.org/, and platformIO
 
 * @Dedication:  Shinigami
 
@@ -25,4 +26,3 @@ He was a good cat colony leader, he made sure I fed everybody.
 Truly a cool cat
 
 
-//to Add fadeBrake, so not so jerky
