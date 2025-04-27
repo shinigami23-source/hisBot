@@ -25,6 +25,6 @@ Things to do:
 Shinigami he's my cat who was hit by a car.  I had been working on a laserlight cat toy at the time.
 In dedication to him.  He just walked up and said (in cat language):  "Wanna be friends" and never left, we just knew.
 He was a good cat colony leader, he made sure I fed everybody.
-Truly a cool cat
+Truly a cool cat.  This project (at least my hope), will emody his spirit.
 
 
