@@ -4,7 +4,7 @@ hisBot is an educational robot and hopefully able to teach basics.
 I'm using a pretty cheap kit and hope code can be used for parent\child and hobbyists projects, 
 
 It's starts at a two motor non-self balanacing robot kit.
-Theb 4 wheel and then a mecaNum robot.
+Then 4 wheel and then a mecaNum robot.
 
 Sensors that are relavent to my needs will be visited.
 But it is written in a way that you can use what you want.
