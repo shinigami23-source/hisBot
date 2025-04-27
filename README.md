@@ -17,6 +17,7 @@ Things to do:
 * refine language so easy for anyone
 * take constructive criticism and use it to refine and upgrade access
 * More integrations, such as Micropython,ROS, https://www.roboticslibrary.org/, and platformIO
+* *Home Assistant intergration
 
 * @Dedication:  Shinigami
 
