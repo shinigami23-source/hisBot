@@ -27,4 +27,7 @@ In dedication to him.  He just walked up and said (in cat language):  "Wanna be 
 He was a good cat colony leader, he made sure I fed everybody.
 Truly a cool cat.  This project (at least my hope), will emody his spirit.
 
+License under GPL V3.
+For full text, check here https://github.com/shinigami23-source/hisBot/blob/main/LICENSE
+
 
