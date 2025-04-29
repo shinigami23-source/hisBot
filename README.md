@@ -2,7 +2,7 @@
 
 hisBot is an educational robot and hopefully able to teach basics.
 I'm using a pretty cheap kit and hope code can be used for parent\child and hobbyists projects, 
-I'm intentionally using a cheap but sturdy kit.  STEM and eduction should be accessible to all.
+I'm intentionally using a cheap but sturdy kit.  STEM and education should be accessible to all.
 
 It's starts at a two motor non-self balanacing robot kit.
 Then 4 wheel and then a mecaNum robot.
